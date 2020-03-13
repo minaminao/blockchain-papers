@@ -2,7 +2,7 @@
 
 ブロックチェーン論文まとめ
 
-[Issue](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)で管理してます
+[Issues](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)で管理してます
 
 ## 学会別まとめ
 - [CCS](https://github.com/minaminao/blockchain-papers/projects/1)
