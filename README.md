@@ -9,12 +9,6 @@
 
 ## 学会別まとめ
 
-### ブロックチェーン系
-- **[FC](https://github.com/minaminao/blockchain-papers/projects/5)**
-- [ICBC](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+ICBC)
-- [IEEE Blockchain](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+IEEE+Blockchain)
-- [CryBlock](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+CryBlock)
-
 ### セキュリティ系
 - **[CCS](https://github.com/minaminao/blockchain-papers/projects/1)**
 - **[S&P](https://github.com/minaminao/blockchain-papers/projects/2)**
@@ -23,11 +17,17 @@
 - [CRYPTO](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+CRYPTO)
 - [EUROCRYPT](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+EUROCRYPT)
 
+### ブロックチェーン系
+- **[FC](https://github.com/minaminao/blockchain-papers/projects/5)**
+- [ICBC](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+ICBC)
+- [IEEE Blockchain](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+IEEE+Blockchain)
+- [CryBlock](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+CryBlock)
+
 ### 他
-- [INFOCOM](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+INFOCOM)
+- **[INFOCOM](https://github.com/minaminao/blockchain-papers/projects/7)**
 - [OSDI](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+OSDI)
-- [PODC](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+PODC)
+- **[PODC](https://github.com/minaminao/blockchain-papers/projects/8)**
 - [SIGCOMM](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+SIGCOMM)
-- [SIGMOD](https://github.com/minaminao/blockchain-papers/projects/6)
+- **[SIGMOD](https://github.com/minaminao/blockchain-papers/projects/6)**
 - [SOSP](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+SOSP)
 - [VLDB](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+VLDB)
