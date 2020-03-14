@@ -4,6 +4,9 @@
 
 [Issues](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)で管理してます
 
+## 分野別まとめ
+[Labels](https://github.com/minaminao/blockchain-papers/labels)
+
 ## 学会別まとめ
 
 ### セキュリティ
