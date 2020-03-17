@@ -19,6 +19,7 @@
 
 ### ブロックチェーン系
 - **[FC](https://github.com/minaminao/blockchain-papers/projects/5)**
+- [WTSC](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+WTSC)
 - [ICBC](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+ICBC)
 - [IEEE Blockchain](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+IEEE+Blockchain)
 - [CryBlock](https://github.com/minaminao/blockchain-papers/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+CryBlock)
